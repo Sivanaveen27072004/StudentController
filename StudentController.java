@@ -52,7 +52,7 @@ class ValidateRegNumberException extends Exception
 		System.out.println("invalid id "+id);
 	}
 }
-
+//another class
 class ValidMarksException extends Exception
 {
 	public ValidMarksException(int marks)
